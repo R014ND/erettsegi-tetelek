@@ -1,2 +1,2 @@
-# -retts-gi-t-telek
+# erettsegi tetelek
 Érettségi tételek vagy valami ilyesmi
