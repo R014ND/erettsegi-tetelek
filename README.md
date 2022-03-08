@@ -1,2 +1,2 @@
 # erettsegi tetelek
-Érettségi tételek vagy valami ilyesmi
+Valami hiányzik vagy nincs benne Issues fül.
